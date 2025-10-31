@@ -1,5 +1,5 @@
 <!-- Header -->
-<h1 align="center">👋 Hey there, I'm Divyanhsi</h1>
+<h1 align="center">👋 Hey there, I'm Divyanshi</h1>
 <p align="center">
   <b>Full‑Stack Developer | React & Next.js | TypeScript</b><br/>
   <i>AI Enthusiast</i>
