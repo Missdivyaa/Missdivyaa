@@ -1,42 +1,61 @@
-<!-- Header -->
-<h1 align="center">👋 Hey there, I'm Divyanshi</h1>
+<h1 align="center">👋 Hey there, I'm Divyanshi Sharma</h1>
+
+<h3 align="center">💻 Full‑Stack Developer | React & Next.js | TypeScript Enthusiast</h3>
+
 <p align="center">
-  <b>Full‑Stack Developer | React & Next.js | TypeScript</b><br/>
-  <i>AI Enthusiast</i>
+  <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&size=24&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI+Enthusiast;Open+Source+Learner;Building+Modern+Web+Apps" alt="Typing Animation" />
 </p>
 
 ---
 
-## 🧠 About Me
-- 🚀 Passionate about building modern, scalable web apps.
-- 🔭 Currently exploring Next.js, Clerk, and PostgreSQL.
-- 💡 Love working at the intersection of backend logic and frontend creativity.
-- 🌱 Always learning and improving through hands‑on projects.
-- 🎓 Expected graduation: 2027
+### 🧠 About Me
+- 🚀 Passionate about building modern, scalable web apps.  
+- 🧩 Currently exploring **Next.js 15**, **Clerk Auth**, and **PostgreSQL** integration.  
+- 💡 Love working at the intersection of backend logic and frontend creativity.  
+- 🌱 Always learning and improving through hands‑on projects.  
+- 🎓 Expected graduation: **2027**
 
 ---
 
-## 🛠 Tech Stack
-- **Languages**: TypeScript · JavaScript · Java
-- **Frameworks & Libraries**: React · Next.js · Tailwind CSS
-- **Databases & Tools**: PostgreSQL · Clerk · Git · Docker · Vercel
+### ⚙️ Tech Stack
+
+#### 💻 Languages
+`TypeScript` • `JavaScript` • `Java`
+
+#### ⚛️ Frameworks & Libraries
+`React` • `Next.js` • `TailwindCSS` • `Node.js`
+
+#### 🗃️ Databases & Tools
+`PostgreSQL` • `Clerk` • `Git` • `Docker` • `Vercel`
 
 ---
 
-## 🔥 Featured Projects
-<!-- Use simple cards via table for layout -->
+### 🚀 Featured Projects
 
-| Project | Description | Tech | Links |
-|---|---|---|---|
-| Code‑Craft | A modern Next.js app to craft exceptional digital experiences. | Next.js · TypeScript · Tailwind | [Repo](https://github.com/Missdivyaa/Code-Craft) |
-| AURAA | AI‑powered UX and automation project with a strong UI focus. | Next.js · TypeScript · Tailwind | [Repo](https://github.com/Missdivyaa/AURAA) |
-| Sarthi | AI‑powered webinar streaming and sales platform. | TypeScript · Next.js · React | [Repo](https://github.com/Missdivyaa/Sarthi) |
-| Portfolio | You’re viewing it! | Next.js · Tailwind · TypeScript | [Repo](https://github.com/yolocat-dev/portfolio) |
+[![Code‑Craft](https://github-readme-stats.vercel.app/api/pin/?username=Missdivyaa&repo=Code-Craft&theme=tokyonight)](https://github.com/Missdivyaa/Code-Craft)
+
+[![AURAA](https://github-readme-stats.vercel.app/api/pin/?username=Missdivyaa&repo=AURAA&theme=tokyonight)](https://github.com/Missdivyaa/AURAA)
+
+[![Sarthi](https://github-readme-stats.vercel.app/api/pin/?username=Missdivyaa&repo=Sarthi&theme=tokyonight)](https://github.com/Missdivyaa/Sarthi)
 
 ---
 
-## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Divyanshi%20Sharma-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyanshi-sharma-1977a3302?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-[![GitHub](https://img.shields.io/badge/GitHub-Missdivyaa-181717?logo=github&logoColor=white)](https://github.com/Missdivyaa)
-[![Email](https://img.shields.io/badge/Email-divyanhsisharma1th%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:divyanhsisharma1th@gmail.com)
+### 🌐 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/divyanshi-sharma-1977a3302?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/Missdivyaa" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github" />
+  </a>
+  <a href="mailto:divyanhsisharma1th@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Missdivyaa&color=blue" alt="Profile views" />
+</p>
 
