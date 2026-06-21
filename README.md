@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hey there, I'm Divyanshi Sharma</h1>
 
-<h3 align="center">💻 Full‑Stack Developer | React & Next.js | TypeScript Enthusiast</h3>
+<h3 align="center">💻 AI/ML Engineer & Full-Stack Developer | GenAI • RAG • LangChain • React • Next.js</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&size=24&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI+Enthusiast;Open+Source+Learner;Building+Modern+Web+Apps" alt="Typing Animation" />
